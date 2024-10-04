@@ -1,0 +1,164 @@
+2024-10-04 13:05:48 [Action Log] Initialize Ran!
+2024-10-04 13:06:11 [Action Log] DrawBox was selected.
+2024-10-04 13:06:12 [Action Log] Freeehand line drawn.
+2024-10-04 13:06:12 [Action Log] Freeehand line drawn.
+2024-10-04 13:06:13 [Action Log] lineToggle was selected.
+2024-10-04 13:06:14 [Action Log] LineShape drawn.
+2024-10-04 13:10:30 [Action Log] DashBox was selected.
+2024-10-04 13:10:30 [Action Log] Dashed LineShape drawn.
+2024-10-04 13:10:39 [Action Log] DashBox was deselected.
+2024-10-04 13:10:40 [Action Log] LineShape drawn.
+2024-10-04 13:10:41 [Action Log] DashBox was selected.
+2024-10-04 13:10:42 [Action Log] lineToggle was deselected.
+2024-10-04 13:10:42 [Action Log] Dashed freehand line drawn.
+2024-10-04 13:17:30 [Action Log] DashBox was deselected.
+2024-10-04 13:17:30 [Action Log] Eraser was selected.
+2024-10-04 13:17:49 [Action Log] DrawBox was deselected.
+2024-10-04 13:17:49 [Action Log] Eraser was deselected.
+2024-10-04 13:17:50 [Action Log] DrawBox was selected.
+2024-10-04 13:17:51 [Action Log] Eraser was selected.
+2024-10-04 13:17:59 [Action Log] Canvas was cleared.
+2024-10-04 13:18:08 [Action Log] Canvas was erased by freehand 
+2024-10-04 13:18:10 [Action Log] Eraser was deselected.
+2024-10-04 13:18:11 [Action Log] DrawBox was deselected.
+2024-10-04 13:18:11 [Action Log] DrawBox was selected.
+2024-10-04 13:18:12 [Action Log] Freeehand line drawn.
+2024-10-04 13:18:13 [Action Log] The canvas was flipped vertically.
+2024-10-04 13:18:14 [Action Log] The canvas was flipped vertically.
+2024-10-04 13:18:15 [Action Log] The canvas was flipped horizontally.
+2024-10-04 13:18:15 [Action Log] The canvas was flipped horizontally.
+2024-10-04 13:18:22 [Action Log] Autosave was turned on.
+2024-10-04 13:18:24 [Action Log] Autosave was turned off.
+2024-10-04 13:18:35 [Action Log] The autosave timer was turned on: false
+2024-10-04 13:18:36 [Action Log] The autosave timer was turned on: true
+2024-10-04 13:18:39 [Action Log] An action was undone.
+2024-10-04 13:18:40 [Action Log] An action was redone.
+2024-10-04 13:26:01 [Action Log] Canvas was rotated 30.
+2024-10-04 13:26:06 [Action Log] Freeehand line drawn.
+2024-10-04 13:26:08 [Action Log] Freeehand line drawn.
+2024-10-04 13:27:34 [Action Log] starToggle was selected.
+2024-10-04 13:27:35 [Action Log] StarShape drawn.
+2024-10-04 13:27:36 [Action Log] starToggle was deselected.
+2024-10-04 13:27:38 [Action Log] starToggle was selected.
+2024-10-04 13:27:39 [Action Log] StarShape drawn.
+2024-10-04 13:27:40 [Action Log] starToggle was deselected.
+2024-10-04 13:27:42 [Action Log] starToggle was selected.
+2024-10-04 13:27:43 [Action Log] StarShape drawn.
+2024-10-04 13:27:44 [Action Log] starToggle was deselected.
+2024-10-04 13:27:46 [Action Log] starToggle was selected.
+2024-10-04 13:27:47 [Action Log] StarShape drawn.
+2024-10-04 13:27:48 [Action Log] starToggle was deselected.
+2024-10-04 13:27:50 [Action Log] starToggle was selected.
+2024-10-04 13:27:55 [Action Log] StarShape drawn.
+2024-10-04 13:27:59 [Action Log] starToggle was deselected.
+2024-10-04 13:28:01 [Action Log] starToggle was selected.
+2024-10-04 13:28:05 [Action Log] StarShape drawn.
+2024-10-04 13:28:07 [Action Log] starToggle was deselected.
+2024-10-04 13:28:09 [Action Log] starToggle was selected.
+2024-10-04 13:28:17 [Action Log] StarShape drawn.
+2024-10-04 13:28:24 [Action Log] starToggle was deselected.
+2024-10-04 13:28:25 [Action Log] lineToggle was selected.
+2024-10-04 13:28:27 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:29 [Action Log] lineToggle was selected.
+2024-10-04 13:28:29 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:30 [Action Log] lineToggle was selected.
+2024-10-04 13:28:30 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:32 [Action Log] lineToggle was selected.
+2024-10-04 13:28:33 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:33 [Action Log] lineToggle was selected.
+2024-10-04 13:28:34 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:34 [Action Log] lineToggle was selected.
+2024-10-04 13:28:34 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:35 [Action Log] lineToggle was selected.
+2024-10-04 13:28:35 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:36 [Action Log] lineToggle was selected.
+2024-10-04 13:28:37 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:37 [Action Log] lineToggle was selected.
+2024-10-04 13:28:38 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:38 [Action Log] lineToggle was selected.
+2024-10-04 13:28:39 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:39 [Action Log] lineToggle was selected.
+2024-10-04 13:28:40 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:40 [Action Log] lineToggle was selected.
+2024-10-04 13:28:41 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:41 [Action Log] lineToggle was selected.
+2024-10-04 13:28:41 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:42 [Action Log] lineToggle was selected.
+2024-10-04 13:28:43 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:43 [Action Log] triangleToggle was selected.
+2024-10-04 13:28:43 [Action Log] triangleToggle was deselected.
+2024-10-04 13:28:45 [Action Log] lineToggle was selected.
+2024-10-04 13:28:51 [Action Log] LineShape drawn.
+2024-10-04 13:28:52 [Action Log] LineShape drawn.
+2024-10-04 13:28:52 [Action Log] LineShape drawn.
+2024-10-04 13:28:53 [Action Log] LineShape drawn.
+2024-10-04 13:28:53 [Action Log] LineShape drawn.
+2024-10-04 13:28:53 [Action Log] LineShape drawn.
+2024-10-04 13:28:53 [Action Log] LineShape drawn.
+2024-10-04 13:28:55 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:55 [Action Log] lineToggle was selected.
+2024-10-04 13:28:55 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:56 [Action Log] lineToggle was selected.
+2024-10-04 13:28:56 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:57 [Action Log] lineToggle was selected.
+2024-10-04 13:28:57 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:57 [Action Log] lineToggle was selected.
+2024-10-04 13:28:58 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:58 [Action Log] lineToggle was selected.
+2024-10-04 13:28:58 [Action Log] lineToggle was deselected.
+2024-10-04 13:28:59 [Action Log] lineToggle was selected.
+2024-10-04 13:28:59 [Action Log] lineToggle was deselected.
+2024-10-04 13:29:01 [Action Log] lineToggle was selected.
+2024-10-04 13:29:02 [Action Log] LineShape drawn.
+2024-10-04 13:29:03 [Action Log] LineShape drawn.
+2024-10-04 13:29:03 [Action Log] LineShape drawn.
+2024-10-04 13:29:03 [Action Log] LineShape drawn.
+2024-10-04 13:29:04 [Action Log] LineShape drawn.
+2024-10-04 13:29:04 [Action Log] LineShape drawn.
+2024-10-04 13:29:04 [Action Log] LineShape drawn.
+2024-10-04 13:29:05 [Action Log] LineShape drawn.
+2024-10-04 13:29:05 [Action Log] LineShape drawn.
+2024-10-04 13:29:05 [Action Log] LineShape drawn.
+2024-10-04 13:29:05 [Action Log] LineShape drawn.
+2024-10-04 13:29:06 [Action Log] LineShape drawn.
+2024-10-04 13:29:07 [Action Log] LineShape drawn.
+2024-10-04 13:29:07 [Action Log] LineShape drawn.
+2024-10-04 13:29:07 [Action Log] LineShape drawn.
+2024-10-04 13:29:08 [Action Log] LineShape drawn.
+2024-10-04 13:29:08 [Action Log] LineShape drawn.
+2024-10-04 13:29:08 [Action Log] LineShape drawn.
+2024-10-04 13:29:08 [Action Log] LineShape drawn.
+2024-10-04 13:29:09 [Action Log] LineShape drawn.
+2024-10-04 13:29:09 [Action Log] LineShape drawn.
+2024-10-04 13:29:09 [Action Log] LineShape drawn.
+2024-10-04 13:29:09 [Action Log] LineShape drawn.
+2024-10-04 13:29:10 [Action Log] LineShape drawn.
+2024-10-04 13:29:10 [Action Log] LineShape drawn.
+2024-10-04 13:29:10 [Action Log] LineShape drawn.
+2024-10-04 13:29:10 [Action Log] LineShape drawn.
+2024-10-04 13:29:11 [Action Log] LineShape drawn.
+2024-10-04 13:29:11 [Action Log] LineShape drawn.
+2024-10-04 13:29:11 [Action Log] LineShape drawn.
+2024-10-04 13:29:11 [Action Log] LineShape drawn.
+2024-10-04 13:29:12 [Action Log] LineShape drawn.
+2024-10-04 13:29:12 [Action Log] LineShape drawn.
+2024-10-04 13:29:12 [Action Log] LineShape drawn.
+2024-10-04 13:29:12 [Action Log] LineShape drawn.
+2024-10-04 13:29:12 [Action Log] LineShape drawn.
+2024-10-04 13:29:13 [Action Log] LineShape drawn.
+2024-10-04 13:29:13 [Action Log] LineShape drawn.
+2024-10-04 13:29:13 [Action Log] LineShape drawn.
+2024-10-04 13:29:13 [Action Log] LineShape drawn.
+2024-10-04 13:29:14 [Action Log] LineShape drawn.
+2024-10-04 13:29:14 [Action Log] LineShape drawn.
+2024-10-04 13:29:21 [Action Log] LineShape drawn.
+2024-10-04 13:29:23 [Action Log] LineShape drawn.
+2024-10-04 13:29:24 [Action Log] lineToggle was deselected.
+2024-10-04 13:29:28 [Action Log] Freeehand line drawn.
+2024-10-04 13:29:36 [Action Log] Freeehand line drawn.
+2024-10-04 13:29:38 [Action Log] lineToggle was selected.
+2024-10-04 13:29:39 [Action Log] lineToggle was deselected.
+2024-10-04 13:29:40 [Action Log] lineToggle was selected.
+2024-10-04 13:29:40 [Action Log] lineToggle was deselected.
+2024-10-04 13:29:42 [Action Log] lineToggle was selected.
+2024-10-04 13:29:42 [Action Log] DrawBox was deselected.
