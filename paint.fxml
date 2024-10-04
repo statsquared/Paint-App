@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.ColorPicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.ToggleButton?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="TOP_CENTER" maxHeight="780.0" minHeight="780" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.paint1_1.PaintController">
+    <padding>
+        <Insets bottom="5.0" left="5.0" right="5.0" />
+    </padding>
+    <MenuBar>
+        <Menu mnemonicParsing="false" text="File">
+            <MenuItem mnemonicParsing="false" onAction="#openFileButtonClick" text="Open" />
+            <MenuItem mnemonicParsing="false" onAction="#saveButtonClick" text="Save" />
+            <MenuItem mnemonicParsing="false" onAction="#saveAsButtonClick" text="Save As" />
+            <MenuItem mnemonicParsing="false" onAction="#saveAsNewButtonClick" text="Save As New" />
+            <MenuItem mnemonicParsing="false" onAction="#newTabClick" text="New Tab" />
+        </Menu>
+
+        <Menu mnemonicParsing="false" text="Edit">
+            <MenuItem mnemonicParsing="false" onAction="#resizeCanvasClick" text="Resize" />
+            <MenuItem mnemonicParsing="false" onAction="#clearButtonClick" text="Clear" />
+            <MenuItem fx:id="undo" mnemonicParsing="false" onAction="#undoClick" text="Undo" />
+            <MenuItem fx:id="redo" mnemonicParsing="false" onAction="#redoClick" text="Redo" />
+            <MenuItem mnemonicParsing="false" onAction="#autosaveToggle" text="Autosave On/Off" />
+        </Menu>
+        <Menu mnemonicParsing="false" text="Help">
+            <MenuItem mnemonicParsing="false" onAction="#aboutClick" text="About" />
+        </Menu>
+        <Menu mnemonicParsing="false" text="View">
+            <MenuItem mnemonicParsing="false" onAction="#timeViewToggelClick" text="View/Hide Timer" />
+        </Menu>
+    </MenuBar>
+    <ToolBar prefHeight="40.0" prefWidth="200.0">
+        <ColorPicker fx:id="colorPicker" prefHeight="26.0" prefWidth="114.0">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+         <value>
+            <Color />
+         </value></ColorPicker>
+      <Label fx:id="colorLabel" text="#ff 0/0/0" />
+      <CheckBox fx:id="drawBox" graphicTextGap="3.0" mnemonicParsing="false" text="Draw" translateX="2.0">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></CheckBox>
+      <CheckBox fx:id="eraserBox" graphicTextGap="3.0" mnemonicParsing="false" text="Eraser">
+         <padding>
+            <Insets left="10.0" />
+         </padding>
+      </CheckBox>
+      <Slider fx:id="widthSlider" blockIncrement="1.0" majorTickUnit="100.0" min="1.0" minorTickCount="5" onMouseReleased="#lineWidthAdjusted" showTickLabels="true" translateX="2.0" value="2.0">
+         <cursor>
+            <Cursor fx:constant="OPEN_HAND" />
+         </cursor></Slider>
+        <Text fx:id="lineWidthText" strokeType="OUTSIDE" strokeWidth="0.0" text="2" translateX="3.0" translateY="-3.0"><cursor><Cursor fx:constant="DEFAULT" /></cursor></Text>
+      <CheckBox fx:id="dashBox" mnemonicParsing="false" text="Dashes"><padding><Insets left="10.0" /></padding></CheckBox>
+        <ToggleButton fx:id="lineToggle" mnemonicParsing="false" text="Line" />
+        <ToggleButton fx:id="squareToggle" mnemonicParsing="false" text="Square" />
+        <ToggleButton fx:id="circleToggle" mnemonicParsing="false" text="Circle" />
+        <ToggleButton fx:id="rectangleToggle" mnemonicParsing="false" text="Rectangle" />
+        <ToggleButton fx:id="triangleToggle" mnemonicParsing="false" text="Triangle" />
+        <ToggleButton fx:id="ovalToggle" mnemonicParsing="false" text="Oval" />
+        <ToggleButton fx:id="diamondToggle" mnemonicParsing="false" text="Diamond" />
+        <ToggleButton fx:id="colorGrabToggle" mnemonicParsing="false" text="Color Grabber" />
+        <ToggleButton fx:id="polygonToggle" text="Polygon" />
+        <ToggleButton fx:id="textToggle" mnemonicParsing="false" text="Text" />
+        <ToggleButton fx:id="selectToggle" mnemonicParsing="false" text="Select" />
+        <ToggleButton fx:id="pasteToggle" mnemonicParsing="false" text="Paste" />
+        <Label fx:id="timeLabel" text="Stopped Timer"> <padding><Insets left="230.0" /></padding>
+      </Label> <cursor><Cursor fx:constant="DEFAULT" /></cursor>
+    </ToolBar>
+    <TabPane fx:id="tabPane" maxHeight="27.0" maxWidth="1530.0" minHeight="27.0" minWidth="1530.0" tabMaxHeight="22.0" tabMaxWidth="80.0" tabMinHeight="22.0" tabMinWidth="50.0">
+    </TabPane>
+    <AnchorPane fx:id="activeAnchorPane" maxHeight="695.0" maxWidth="1530.0" minHeight="695.0" minWidth="1530.0" />
+    <StackPane fx:id="activeStackPane" maxHeight="695.0" maxWidth="1530.0" minHeight="695.0" minWidth="1530.0" />
+    <Canvas fx:id="mainCanvas" height="695.0" width="1530.0" />
+    <Canvas fx:id="tempCanvas" height="695.0" width="1530.0" />
+</VBox>

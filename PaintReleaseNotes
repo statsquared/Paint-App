@@ -1,0 +1,125 @@
+Matt’s Pain(t) Version 1.4.0 - 9/27/24
+Added Features:
+    JavaDoc Commenting
+    File Saving Note
+    Autosave Toggle
+    Autosave Timer
+    Unit Tests
+    Autosave
+Links:
+    github.com/statsquared/Paint-App
+Known Problems:
+    No Tabs (Framerwork but no functionality)
+    No webserver
+    Width slider affects text sizing oddly
+Upcoming Features:
+
+
+
+
+Matt’s Pain(t) Version 1.3.0 - 9/20/24
+Added Features:
+    Select, Copy, Move, & Paste
+    Additional Keybinds
+    Canvas Clear Alert
+    Drawing Preview
+    N-Sided Polygon
+    Drawable Text
+    Undo/Redo
+Links:
+    github.com/statsquared/Paint-App
+Known Problems:
+    No Tabs (Framerwork present but no functionality)
+    Width slider affects text sizing oddly
+Upcoming Features:
+    Autosave
+    Unit Tests
+    Webserver
+    JavaDoc Commenting
+    Save in an alternative file format (Alert user if quality decreases)
+    Turn off Autosave button
+    Fix file save thingy
+
+
+
+
+Matt’s Pain(t) Version 1.2.0 - 9/16/24
+Added Features:
+    Dashed & Straight Lines
+    Real-Time Width Label
+    Rounded Drawing Tool
+    Keyboard Shortcuts
+    Canvas Resizing
+    Color Grabber
+    Color Label
+    Smart Save
+    Java Pun
+    Shapes
+    Eraser
+Links: N/A
+Known Problems: N/A
+Upcoming Features:
+    Undo/Redo
+    “Are you sure” (When using clear button)
+    Polygon with x number of sides
+    Live draw functionality
+    Select, copy, & paste part of the canvas
+    Move a piece of the image
+    Ability to add text to image
+    Tabs
+    Use of GIT
+
+
+
+
+Matt’s Pain(t) Version 1.1.0 - 9/6/24
+Added Features:
+    Program Icon
+    Supported file types (png, jpg, & bmp)
+    Buffered image saving rather than purely pixel data
+    Edited images are now saveable
+    Help Menu (About option with dialogue)
+    Fully maximized window
+    Large image accommodation
+    Colored line drawing
+    Draw mode setting
+    Clear button (clears the canvas)
+    Color chooser
+    Numbered line width slider
+Links: N/A
+Known Problems: N/A
+Upcoming Features:
+    Shapes (Circle, rectangle, oval, hexagon, and triangle)
+    Shape width
+    Keyboard Shortcuts (s-save, etc.)
+    Color text label (hex/rgb/English)
+    Color grabber
+    User resize canvas option
+    Straight line functionality
+    Dashed lines
+    Smart save (“You’re about to close without saving…”)
+    Tabs
+    Java Pun
+    Eraser (center it rather than top left corner)
+    File folders open to specific directories
+    Directional arrows coordinated with width slider
+
+
+
+
+Matt’s Pain(t) Version 1.0.0 - 8/30/24
+Added Features:
+    Added a File Open Button (Opens Images primarily)
+    Added a Save Button
+    Added a SaveAs Button
+Links: N/A
+Known Problems:
+    Pixel-by-pixel data saving is resource-heavy
+Upcoming Features:
+    Multiple file types supported
+    Line drawing
+    Save/SaveAs edited images
+    Larger image accommodation
+    Color chooser
+    Help Menu (about option & dialogue)
+    Choosable line width
