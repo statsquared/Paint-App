@@ -1,0 +1,127 @@
+2024-10-22 17:23:51 [Action Log] Initialize Ran!
+2024-10-22 17:24:35 [Action Log] Image opened from file: big.png
+2024-10-22 17:24:40 [Action Log] File was saved to: C:\Users\matth\CS250 (ThisPC)\Images\big.png
+2024-10-22 17:24:58 [Action Log] File saved as another file.
+2024-10-22 17:25:07 [Action Log] File saved as new.
+2024-10-22 17:25:32 [Action Log] Autosave was turned on.
+2024-10-22 17:25:34 [Action Log] Autosave was turned off.
+2024-10-22 17:25:37 [Action Log] The canvas was flipped horizontally.
+2024-10-22 17:25:39 [Action Log] The canvas was flipped horizontally.
+2024-10-22 17:25:41 [Action Log] The canvas was flipped vertically.
+2024-10-22 17:25:43 [Action Log] The canvas was flipped vertically.
+2024-10-22 17:25:46 [Action Log] Canvas was rotated 30.
+2024-10-22 17:25:47 [Action Log] An action was undone.
+2024-10-22 17:25:50 [Action Log] An action was undone.
+2024-10-22 17:25:52 [Action Log] An action was redone.
+2024-10-22 17:25:53 [Action Log] An action was undone.
+2024-10-22 17:25:56 [Action Log] Canvas was cleared.
+2024-10-22 17:26:19 [Action Log] The autosave timer was turned on: false
+2024-10-22 17:26:21 [Action Log] The autosave timer was turned on: true
+2024-10-22 17:26:26 [Action Log] DrawBox was selected.
+2024-10-22 17:26:30 [Action Log] Freeehand line drawn.
+2024-10-22 17:26:30 [Action Log] DrawBox was deselected.
+2024-10-22 17:26:32 [Action Log] DrawBox was selected.
+2024-10-22 17:26:33 [Action Log] Eraser was selected.
+2024-10-22 17:26:34 [Action Log] Canvas was erased by freehand 
+2024-10-22 17:26:35 [Action Log] DrawBox was deselected.
+2024-10-22 17:26:36 [Action Log] Canvas was erased by freehand 
+2024-10-22 17:26:37 [Action Log] DrawBox was selected.
+2024-10-22 17:26:37 [Action Log] Eraser was deselected.
+2024-10-22 17:26:38 [Action Log] DashBox was selected.
+2024-10-22 17:26:39 [Action Log] Dashed freehand line drawn.
+2024-10-22 17:26:40 [Action Log] lineToggle was selected.
+2024-10-22 17:26:42 [Action Log] Dashed LineShape drawn.
+2024-10-22 17:26:43 [Action Log] lineToggle was deselected.
+2024-10-22 17:26:43 [Action Log] squareToggle was selected.
+2024-10-22 17:26:44 [Action Log] Dashed SquareShape drawn.
+2024-10-22 17:26:45 [Action Log] squareToggle was deselected.
+2024-10-22 17:26:45 [Action Log] circleToggle was selected.
+2024-10-22 17:26:47 [Action Log] Dashed CircleShape drawn.
+2024-10-22 17:26:47 [Action Log] DashBox was deselected.
+2024-10-22 17:26:49 [Action Log] CircleShape drawn.
+2024-10-22 17:26:49 [Action Log] circleToggle was deselected.
+2024-10-22 17:26:49 [Action Log] squareToggle was selected.
+2024-10-22 17:26:50 [Action Log] SquareShape drawn.
+2024-10-22 17:26:51 [Action Log] squareToggle was deselected.
+2024-10-22 17:26:51 [Action Log] lineToggle was selected.
+2024-10-22 17:26:52 [Action Log] LineShape drawn.
+2024-10-22 17:26:53 [Action Log] lineToggle was deselected.
+2024-10-22 17:26:53 [Action Log] rectangleToggle was selected.
+2024-10-22 17:26:54 [Action Log] RectangleShape drawn.
+2024-10-22 17:26:57 [Action Log] RectangleShape drawn.
+2024-10-22 17:26:58 [Action Log] rectangleToggle was deselected.
+2024-10-22 17:26:58 [Action Log] triangleToggle was selected.
+2024-10-22 17:26:59 [Action Log] TriangleShape drawn.
+2024-10-22 17:27:03 [Action Log] TriangleShape drawn.
+2024-10-22 17:27:03 [Action Log] triangleToggle was deselected.
+2024-10-22 17:27:03 [Action Log] ovalToggle was selected.
+2024-10-22 17:27:04 [Action Log] OvalShape drawn.
+2024-10-22 17:27:05 [Action Log] ovalToggle was deselected.
+2024-10-22 17:27:05 [Action Log] diamondToggle was selected.
+2024-10-22 17:27:06 [Action Log] DiamondShape drawn.
+2024-10-22 17:27:08 [Action Log] diamondToggle was deselected.
+2024-10-22 17:27:08 [Action Log] colorGrabToggle was selected.
+2024-10-22 17:27:10 [Action Log] colorGrabToggle was deselected.
+2024-10-22 17:27:10 [Action Log] New color was picked.
+2024-10-22 17:27:10 [Action Log] Dot drawn.
+2024-10-22 17:27:13 [Action Log] colorGrabToggle was selected.
+2024-10-22 17:27:15 [Action Log] colorGrabToggle was deselected.
+2024-10-22 17:27:15 [Action Log] New color was picked.
+2024-10-22 17:27:15 [Action Log] Dot drawn.
+2024-10-22 17:27:17 [Action Log] polygonToggle was selected.
+2024-10-22 17:27:20 [Action Log] PolygonShape drawn.
+2024-10-22 17:27:24 [Action Log] PolygonShape drawn.
+2024-10-22 17:27:25 [Action Log] polygonToggle was deselected.
+2024-10-22 17:27:26 [Action Log] starToggle was selected.
+2024-10-22 17:27:27 [Action Log] StarShape drawn.
+2024-10-22 17:27:27 [Action Log] polygonToggle was selected.
+2024-10-22 17:27:27 [Action Log] starToggle was deselected.
+2024-10-22 17:27:30 [Action Log] PolygonShape drawn.
+2024-10-22 17:27:31 [Action Log] polygonToggle was deselected.
+2024-10-22 17:27:35 [Action Log] textToggle was selected.
+2024-10-22 17:27:39 [Action Log] Text drawn.
+2024-10-22 17:27:40 [Action Log] textToggle was deselected.
+2024-10-22 17:27:40 [Action Log] selectToggle was selected.
+2024-10-22 17:27:42 [Action Log] selectToggle was deselected.
+2024-10-22 17:27:46 [Action Log] pasteToggle was selected.
+2024-10-22 17:27:50 [Action Log] pasteToggle was deselected.
+2024-10-22 17:27:54 [Action Log] DashBox was selected.
+2024-10-22 17:27:57 [Action Log] starToggle was selected.
+2024-10-22 17:27:59 [Action Log] Dashed StarShape drawn.
+2024-10-22 17:28:00 [Action Log] starToggle was deselected.
+2024-10-22 17:28:05 [Action Log] textToggle was selected.
+2024-10-22 17:28:10 [Action Log] Dashed text drawn.
+2024-10-22 17:28:12 [Action Log] DashBox was deselected.
+2024-10-22 17:28:13 [Action Log] textToggle was deselected.
+2024-10-22 17:28:17 [Action Log] textToggle was selected.
+2024-10-22 17:28:19 [Action Log] Text drawn.
+2024-10-22 17:28:23 [Action Log] DrawBox was deselected.
+2024-10-22 17:28:23 [Action Log] DrawBox was selected.
+2024-10-22 17:28:26 [Action Log] DrawBox was deselected.
+2024-10-22 17:28:26 [Action Log] DrawBox was selected.
+2024-10-22 17:28:28 [Action Log] textToggle was deselected.
+2024-10-22 17:28:29 [Action Log] DrawBox was deselected.
+2024-10-22 17:28:29 [Action Log] DrawBox was selected.
+2024-10-22 17:28:32 [Action Log] Freeehand line drawn.
+2024-10-22 17:28:36 [Action Log] Freeehand line drawn.
+2024-10-22 17:28:39 [Action Log] lineToggle was selected.
+2024-10-22 17:28:40 [Action Log] LineShape drawn.
+2024-10-22 17:28:41 [Action Log] lineToggle was deselected.
+2024-10-22 17:28:41 [Action Log] squareToggle was selected.
+2024-10-22 17:28:43 [Action Log] SquareShape drawn.
+2024-10-22 17:28:44 [Action Log] DashBox was selected.
+2024-10-22 17:28:49 [Action Log] Dashed SquareShape drawn.
+2024-10-22 17:28:49 [Action Log] squareToggle was deselected.
+2024-10-22 17:28:49 [Action Log] circleToggle was selected.
+2024-10-22 17:28:50 [Action Log] Dashed CircleShape drawn.
+2024-10-22 17:28:51 [Action Log] circleToggle was deselected.
+2024-10-22 17:28:51 [Action Log] rectangleToggle was selected.
+2024-10-22 17:28:52 [Action Log] Dashed RectangleShape drawn.
+2024-10-22 17:28:54 [Action Log] DashBox was deselected.
+2024-10-22 17:28:57 [Action Log] DrawBox was deselected.
+2024-10-22 17:29:06 [Action Log] Canvas was resized
+2024-10-22 17:29:08 [Action Log] DrawBox was selected.
+2024-10-22 17:29:11 [Action Log] RectangleShape drawn.
+2024-10-22 17:29:12 [Action Log] rectangleToggle was deselected.
+2024-10-22 17:29:17 [Action Log] Freeehand line drawn.
+2024-10-22 17:29:33 [Action Log] Freeehand line drawn.
